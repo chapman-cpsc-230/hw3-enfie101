@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _Callie Enfield_
 
-**Due date:** _\<date\>_
+**Due date:** _March 11, 2016_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_This assignment involved the use of turtle to draw a star and polygon given user-inputted specifications.  This assignment also had us look at for loops and booleans._
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_This assignment allowed me to better understand how a boolean works.  I also gained a better understanding of for loops._
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Callie Enfield_

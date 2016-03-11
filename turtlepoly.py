@@ -1,3 +1,13 @@
+"""
+File: turtlepoly.py
+
+Copyright (c) 2016 Callie Enfield
+
+License: MIT
+
+This code should produce a 'n' sided polygon with each side of length 'side_len' based on the user's input.
+"""
+
 import turtle
 
 def draw_reg_polygon(t,num_sides,side_len):
@@ -6,15 +16,20 @@ def draw_reg_polygon(t,num_sides,side_len):
         t.right(360.0/num_sides)
 
 # Ask user for input here.
+n_str = raw_input("Enter the number of sides (must be odd):")
+n = int(n_str)
+
+l_str = raw_input("Enter the length of the sides:")
+l = int(l_str)
 
 # Now create a graphics window.
 bob = turtle.Pen()
 
-# Put the rest of your code can go here
+# The rest of your code can go here
 
 # side = 10
-for j in range(20):
-    draw_reg_polygon(bob,6,10 + 5*j)
+for j in range(1):
+    draw_reg_polygon(bob,n,l)
     bob.left(18)
     # draw_square(bob,side)
     # side += 5
